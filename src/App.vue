@@ -39,7 +39,6 @@ export default {
   methods: {
     addTodo (todo) {
       this.todos.push(todo)
-      alert('New To Do created!')
     }
   }
 }
